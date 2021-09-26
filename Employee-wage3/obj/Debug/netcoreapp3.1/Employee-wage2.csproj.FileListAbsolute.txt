@@ -1,0 +1,14 @@
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.csproj.AssemblyReference.cache
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.AssemblyInfoInputs.cache
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.AssemblyInfo.cs
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.csproj.CoreCompileInputs.cache
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.exe
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.deps.json
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.runtimeconfig.json
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.runtimeconfig.dev.json
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.dll
+E:\dotnet\Employee-wage2\bin\Debug\netcoreapp3.1\Employee-wage2.pdb
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.dll
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.pdb
+E:\dotnet\Employee-wage2\obj\Debug\netcoreapp3.1\Employee-wage2.genruntimeconfig.cache
